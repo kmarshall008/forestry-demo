@@ -17,8 +17,8 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Collective Impact
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Cimpatico
 
   Ora et Labora
 hero_button:
